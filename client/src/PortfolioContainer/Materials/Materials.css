@@ -6,3 +6,10 @@
     font-family: 'Libre Baskerville', serif;
     font-weight: bolder;
 }
+#a{
+    font-weight: 400;
+    padding: 10px;
+    text-align: left;
+    margin-left: 20%;
+    width: 80%;
+}

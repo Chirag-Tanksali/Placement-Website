@@ -48,7 +48,16 @@ export default function PrepVideo(props) {
             <p>Click <a href="Strings.pdf" download="Strings.pdf"> Here </a > to Download my Handwritten Basic Programs on Strings</p>
             
             <br></br>
-            <p className="para">Additionally, I have access to several UDEMY courses on MERN Stack Web Development , Javascript , React Native , Machine Learning etc.. that I would be happy to share with anyone interested. Please feel free to email me, and I will provide the necessary ID and password.</p>
+            <p className="para">Additionally, I have access to several UDEMY courses that I would be happy to share with anyone interested. Please feel free to email me, and I will provide the necessary ID and password. The courses are as follows :  <br></br>
+            <p className="para" id="a">
+            1. The Complete 2023 Web Development Bootcamp by Dr.Angela Yu  <br></br>
+            2. The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann <br></br>
+            3. Node.js, Express, MongoDB & More: The Complete Bootcamp by Jonas Schmedtmann <br></br>
+            4. React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller <br></br>
+            5. React Native - The Practical Guide [2023] by Maximilian Schwarzmüller <br></br>
+            6. Python for Machine Learning & Data Science Masterclass by Jose Portilla <br></br>
+            </p>
+</p>
             <br></br>
             <br></br>
         </div>
