@@ -1,0 +1,17 @@
+.motivation{
+    padding-bottom: 20px;
+    /* font-family: 'Kalam', cursive; */
+    font-size: 28px;
+    font-family: 'Libre Baskerville', serif;
+}
+#note{
+    margin-left: 200px;
+    margin-right: 200px;
+    /* font-family: 'Kalam', cursive; */
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    /* padding-left: 180px; */
+    text-align: justify;
+    /* width: 1300px; */
+    color: rgb(255, 3, 3);
+}
