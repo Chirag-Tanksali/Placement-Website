@@ -73,12 +73,12 @@ export default function ContactMe(props) {
                     <h2 className="title" id='abcd'>
                         <Typical loop={Infinity} steps={["Get In Touch 📧", 1000]} />
                     </h2>{" "}
-                        <a href="https://www.facebook.com/chirag.tanksali" target="_blank"> <span id='a' ><i class="fa fa-facebook-square" ></i> </span>  </a>
+                        
                         <a href="https://www.instagram.com/chirag_tanksali/" target="_blank"> <span id='b'><i class="fa fa-instagram"></i></span></a>
                         <a href="https://twitter.com/TanksaliChirag" target="_blank"><span id='c'><i class="fa fa-twitter"></i></span></a>
                         <a href="https://www.linkedin.com/in/chirag-tanksali-39a818210/" target="_blank"><span id='d'><i class="fa fa-linkedin"></i></span></a>
                         <a href="https://github.com/Chirag-Tanksali" target="_blank">  <span id='e'><i class="fa fa-github"></i></span></a>
-                        <a href="https://www.codechef.com/users/chiragtanksali" target="_blank">  <span><i class="bi bi-badge-cc" id='abcd'></i></span></a>
+                        
                 </div>
                 <div className="back-form">
                     <div className="img-back">

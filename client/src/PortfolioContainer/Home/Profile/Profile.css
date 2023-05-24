@@ -7,6 +7,13 @@
   min-height: fit-content;
   /* background-color: #5d30a7; */
 }
+#abcde{
+  display: inline;
+  font-family: 'Pangolin', cursive;
+ /* background-color: #4c4fa5; */
+ background-color: #ffffff;
+ color: black; 
+}
 .profile-parent {
   display: flex;
   align-items: center;

@@ -1,6 +1,19 @@
 .resume{
     padding-top: 80px;
     padding-bottom: 80px;
+    
+}
+.head{
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.head1{
+  text-decoration: underline;
+}
+.back{
+  display: inline-block;
+  background-color: rgb(10, 16, 85);
+  color: white;
 }
 @media only screen and (max-width: 605px) {
   
@@ -15,11 +28,19 @@
         width: 350px ;
         height:300px ;
     }
+    #resume1{
+      width:300px ;
+      height:450px ;
+    }
   }
   @media only screen and (max-width: 405px) {
   
     .iframe-container iframe{
         width: 300px ;
         height:300px ;
+    }
+    #resume1{
+      width:300px ;
+      height:450px ;
     }
   }

@@ -21,10 +21,10 @@ export default function PrepVideo(props) {
     return (
         <div className=" video " id={props.id || ""}>
             <ScreenHeading subHeading={""} title={"Road Map for Placement Preparation!"} />
-            This is a Dummy Video . Real Video will be added soon.
+            
             <div className="iframe-container">
                 
-            <iframe width="900" height="506" src="https://www.youtube.com/embed/D0UnqGm_miA" title="Dummy Video For Website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="900" height="506" src="https://www.youtube.com/embed/MdrEfekJv_4" title="How to prepare for on-campus placements?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
     );

@@ -27,7 +27,7 @@ export default function Motivation(props) {
 5. Success is a journey where we put efforts to make our dreams come true. 
 <br></br>
 <br></br>
-<p id="note"> Remember, Preparing for placements can be a challenging task, but that with strong preparation, anything is achievable.With Hard Work , Self-Belief , Self-Confidence , Dedication and Desire to achieve , Perseverance, and Patience, you can crack any placement and land your dream job!
+<p id="note"> Remember, Preparing for placements can be a challenging task, but with strong preparation, anything is achievable. With Hard Work,Dedication,Self-Belief,Self-Confidence,Perseverance, and Patience, you can crack any placement and land your dream job!
 </p>
 </p>
 

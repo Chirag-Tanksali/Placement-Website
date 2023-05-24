@@ -23,15 +23,13 @@ export default function Profile() {
                             <h4 className='profile-role-tagline'>
                             I, Chirag Tanksali, have completed my BE in Electronics and Communication from KLS Gogte Institute of Technology, Belagavi. I have been offered positions at both TCS and Harman, and I have decided to join Harman. 
 <br></br>
-I am grateful to KLS Gogte Institute of Technology, Belagavi, Karnataka for the opportunity, and I extend a huge thanks to the placement officers, Satish Hukkeri Sir, Sagar Santaji Sir, and Keshav Gudi Sir, for their extremely supportive role throughout the placement process.
-<br></br> I developed this website, which offers comprehensive information related to placement preparation, including tips on how to build resume, and an array of reference materials. As a firm believer in sharing knowledge, I created this website with the intention of helping my fellow juniors and all those who are preparing for placements.
+I am grateful to KLS Gogte Institute of Technology for the opportunity, and I extend a huge thanks to the placement officers, Satish Hukkeri Sir, Sagar Santaji Sir, and Keshav Gudi Sir, for their extremely supportive role throughout the placement process.<br></br>
+<br></br> <h3 id='abcde'>ABOUT THIS WEBSITE !!! </h3> <br></br> 
+ I developed this website, which offers comprehensive information related to placement preparation, including tips on how to build resume, and an array of reference materials. As a firm believer in sharing knowledge, I created this website with the intention of helping my fellow juniors and all those who are preparing for placements.
                             </h4>
                         
                     </div>
-                    <div className='profile-options'>
-                        
-                        <a href="https://drive.google.com/file/d/1OKHwVxT4qY82NPVC_0J61aa6jxt73tF2/view?usp=sharing " class="btn" target="_blank"> <button className='btn highlighted-btn'>Get Resume</button></a>
-                    </div>
+                    
                 </div>
                 <div className='profile-picture'>
                     <div className='profile-picture-background'> </div>
